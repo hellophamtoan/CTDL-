@@ -6,10 +6,10 @@ using namespace std;
 
 class movie {
 private:
-    string name;      // Tên phim
-    float ticket_price; // Giá vé
-    int show_times;     // S? lý?ng su?t chi?u
-    float rating;      // Ði?m ðánh giá
+    string name;      
+    float ticket_price; 
+    int show_times;     
+    float rating;      
 
 public:
     movie() {}
