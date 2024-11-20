@@ -1,0 +1,139 @@
+Trong C++, toan tu new dung de lam gi?
+Khai bao bien moi
+Khoi tao doi tuong moi
+Cap phat bo nho dong
+Tao con tro moi
+2
+
+Tu khoa const trong C++ co y nghia gi?
+Danh dau bien co the thay doi
+Khai bao hang so
+Khai bao bien static
+Khai bao bien toan cuc
+1
+
+Phuong thuc nao duoc goi tu dong khi mot doi tuong bi huy?
+Constructor
+Destructor
+Finalizer
+Deallocator
+1
+
+Vector trong C++ la gi?
+Mot mang tinh
+Mot danh sach lien ket
+Mot mang dong
+Mot con tro
+2
+
+Tham chieu (reference) trong C++ khac gi voi con tro (pointer)?
+Tham chieu khong the NULL
+Con tro khong the thay doi
+Tham chieu chiem nhieu bo nho hon
+Tham chieu khong can cap phat bo nho
+0
+
+Tu khoa virtual trong C++ duoc su dung de lam gi?
+Khai bao bien ao
+Khai bao lop truu tuong
+Cho phep ghi de phuong thuc
+Tao doi tuong tam thoi
+2
+
+Template trong C++ dung de lam gi?
+Tao giao dien nguoi dung
+Lap trinh tong quat
+Xu ly ngoai le
+Quan ly bo nho
+1
+
+STL trong C++ la gi?
+Standard Template Library
+System Type Library
+Standard Type List
+System Template List
+0
+
+Phuong thuc static trong C++ co dac diem gi?
+Chi duoc goi mot lan
+Khong can tao doi tuong de goi
+Khong the ke thua
+Tu dong huy khi ket thuc chuong trinh
+1
+
+Toan tu :: trong C++ dung de lam gi?
+Phep chia nguyen
+Toan tu pham vi
+So sanh dia chi
+Truy cap con tro
+1
+
+Nap chong toan tu (operator overloading) trong C++ la gi?
+Dinh nghia lai y nghia cua toan tu
+Tao toan tu moi
+Xoa toan tu cu
+Thay doi do uu tien toan tu
+0
+
+Tu khoa friend trong C++ co tac dung gi?
+Khai bao lop ban be
+Cho phep truy cap thanh phan private
+Tao quan he ke thua
+Tao doi tuong tam thoi
+1
+
+Exception handling trong C++ bao gom tu khoa nao?
+if-else
+while-do
+try-catch
+for-in
+2
+
+C++ co bao nhieu kieu ke thua co ban?
+2
+3
+4
+5
+1
+
+Constructor mac dinh la gi?
+Constructor khong co tham so
+Constructor co mot tham so
+Constructor duoc tao tu dong
+Constructor duoc khai bao private
+0
+
+Trong C++, nullptr la gi?
+Mot kieu du lieu
+Mot con tro null
+Mot hang so
+Mot bien toan cuc
+1
+
+Smart pointer trong C++ la gi?
+Con tro thong minh tu quan ly bo nho
+Con tro co the NULL
+Con tro den doi tuong
+Con tro ham
+0
+
+Container trong STL la gi?
+Lop chua du lieu
+Thu vien chuan
+Kieu du lieu
+Ham template
+0
+
+Lambda expression trong C++ la gi?
+Bieu thuc logic
+Ham an danh
+Bieu thuc toan hoc
+Cau lenh dieu kien
+1
+
+Tu khoa mutable trong C++ dung de lam gi?
+Cho phep thay doi bien const
+Khai bao bien co the thay doi trong lambda
+Danh dau ham co the ghi de
+Khai bao bien toan cuc
+1
